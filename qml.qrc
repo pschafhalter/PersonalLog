@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Formatter.js</file>
+        <file>DBHandler.js</file>
+    </qresource>
+</RCC>
